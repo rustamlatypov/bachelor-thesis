@@ -21,7 +21,7 @@ Built on Matlab 2017b.
 
 
 ## Acknowledgements
-[Antti Hannukainen](mailto:antti.hannukainen@aalto.fi)
-Supervisor and instructor of Bachelor thesis.
+Supervisor and instructor of Bachelor thesis: [Antti Hannukainen](mailto:antti.hannukainen@aalto.fi)
+
 
 
