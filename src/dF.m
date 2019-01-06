@@ -3,7 +3,16 @@
 % (Section 5.2)
 %------------------------------------------------------------
 
-function out = dF(n,e,g,I,IN,SP)
+function out = dF(n,e,g,I)
+
+G_r = g_matrix(n,e,1:length(g));
+G_r = G_r(2:end,2:end);
+
+for i = 1:size(G_r,2)
+    [~,m,v] = find(G_r(i,:));
+    IN{i} = m(G_r(i,m)<0);
+    SP{i} = -v(v<0);
+end
 
 G = g_matrix(n,e,g);
 G = G(2:end,2:end);
