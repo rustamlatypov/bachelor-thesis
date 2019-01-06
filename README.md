@@ -1,4 +1,4 @@
-# Bachelor's thesis: Inverse problem for resistor networks
+# Inverse problem for resistor networks (fall 2018)
 
 ## Abstract
 This thesis presents the mathematics behind a grid-based temperature sensor. It also applies the computational theory to exemplary surfaces. This grid sensor could be utilized in many fields of industry. It would offer effortless and precise temperature measurements around any object. This could uncover previously undetected heat dissipation and increase the stability of an industrial process. 
@@ -22,3 +22,6 @@ Built on Matlab 2017b.
 
 ## Acknowledgements
 Supervisor and instructor of Bachelor's thesis: [Antti Hannukainen](mailto:antti.hannukainen@aalto.fi)
+
+
+
