@@ -9,7 +9,7 @@ The resistance is obtained by formulating a non-linear ill-posed inverse problem
 
 
 ## Remarks
-The final results, error analysis, and convergence are not recorded as in, but can rather be derived from the core code with minimal effort. The code contains references to the /doc/thesis.pdf.
+The final results, error analysis, and convergence are not recorded as in, but can rather be derived from the core code with minimal effort. The code contains heavy referencing to the /doc/thesis.pdf.
 
 
 ## Software prerequisites
