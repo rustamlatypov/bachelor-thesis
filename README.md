@@ -2,7 +2,7 @@
 
 Bachelor's thesis at Aalto University.
 
-Created during June - August, 2018.
+Created during June - September, 2018.
 
 ## Abstract
 
