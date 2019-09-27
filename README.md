@@ -20,7 +20,7 @@ The code for reproducing error analysis, and convergence is not provided, but ca
 
 ## Software prerequisites
 
-Built on Matlab 2017b.
+Built with Matlab 2017b.
 
 
 ## Author
