@@ -13,14 +13,14 @@ The sensor is a grid-like structure with nodes and edges. A resistance is assign
 The resistance is obtained by formulating a non-linear ill-posed inverse problem using only boundary measurements and the topology of the grid. The problem is then solved using the Gauss-Newton algorithm paired with Tikhonov regularization. A Laplacian matrix with the Neumann boundary condition is used for regularization. The algorithm is found to converge on accurate solutions when the parameters are fitted for the application and the environment.
 
 
+## Running
+
+Built with Matlab 2017b.
+
+
 ## Remarks
 
 The code for reproducing error analysis, and convergence is not provided, but can rather be derived from the core code with minimal effort. The code contains references to /doc/thesis.pdf.
-
-
-## Software prerequisites
-
-Built with Matlab 2017b.
 
 
 ## Author
