@@ -15,7 +15,7 @@ The resistance is obtained by formulating a non-linear ill-posed inverse problem
 
 ## Running
 
-Built with Matlab 2017b.
+Built with Matlab 2017b without add-ons.
 
 
 ## Remarks
