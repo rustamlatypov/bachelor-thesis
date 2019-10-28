@@ -48,7 +48,7 @@ for i = 1:s
     for j = insert
         L(i,j) = L(i,j) - 1;
     end
-        L(i,i) = 4;
+    L(i,i) = 4;
 end 
 end
 
