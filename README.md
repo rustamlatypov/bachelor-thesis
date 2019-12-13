@@ -20,7 +20,7 @@ Built with Matlab 2017b without add-ons.
 
 ## Remarks
 
-The code for reproducing error analysis, and convergence is not provided, but can rather be derived from the core code with minimal effort. The code contains references to `/doc/thesis.pdf`.
+The code for reproducing error analysis and convergence is not provided, but can rather be derived from the core code with minimal effort. The code contains references to `/doc/thesis.pdf`.
 
 
 ## Author
