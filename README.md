@@ -1,6 +1,6 @@
 # Inverse problem for resistor networks 
 
-Bachelor's thesis at Aalto University.
+Bachelor's thesis at Aalto University [https://aaltodoc.aalto.fi/handle/123456789/34075].
 
 Developed during June - September, 2018.
 
